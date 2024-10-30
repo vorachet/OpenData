@@ -1,0 +1,23 @@
+"","Manufacturer","Plane","Price_Million","Passengers","Distance_km","Engines","Speed_kmh"
+"1","Airbus","A319 Corporate Jet","63","10–39",11100,2,870
+"2","Airbus","A318 Elite","56","14–18",7400,2,870
+"3","Boeing","737 Boeing BizJet","47–72","8–63",11480,2,890
+"4","Bombardier","Global Express","45","8–19",11390,2,907
+"5","Bombardier","Corporate Jetliner","35","3–30",4518,2,837
+"6","Bombardier","RJ special edition","28","14–19",5780,2,837
+"7","Bombardier","Challenger 850","31.8","15–19",5206,2,819
+"8","Dassault","Falcon 900B","26.5","12–19",7401,2,870
+"9","Dassault","Falcon 900C","25","12–19",7908,2,870
+"10","Dassault","Falcon 900 DX","29.8","12–19",7794,2,870
+"11","Dassault","Falcon 900 EX","29.4","12–19",9050,2,870
+"12","Dassault","Falcon 7X","50","14",11019,3,900
+"13","Embraer","Legacy 600","27.4","13–14",6060,2,834
+"14","Embraer","Lineage 1000","42.95","19",8344,2,890
+"15","Gulfstream Aerospace","Gulfstream III","37","26",6976,2,850
+"16","Gulfstream Aerospace","Gulfstream IV-SP","24.6","3–19",8019,2,870
+"17","Gulfstream Aerospace","Gulfstream V","35","3–19",12582,2,870
+"18","Gulfstream Aerospace","Gulfstream G450","49","12–19",8061,2,850
+"19","Gulfstream Aerospace","Gulfstream G350","49","12–19",7038,2,850
+"20","Gulfstream Aerospace","Gulfstream G650","58.5","11–18",12960,2,982
+"21","Gulfstream Aerospace","Gulfstream G500","36","14–19",10700,2,904
+"22","Gulfstream Aerospace","Gulfstream G550","59.9","14–19",12500,2,904
